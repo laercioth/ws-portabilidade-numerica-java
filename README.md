@@ -1,8 +1,8 @@
 # ws-portabilidade-numerica-java
 
-<div><img alt="" src="img/company.png" /></div>
-<div><img alt="" src="img/yes_connection.png" /></div>
-<div><img alt="" src="img/no_connection.png" /></div>
+<div><img alt="" src="img/company.png" /> Operadora encontrada!</div>
+<div><img alt="" src="img/yes_connection.png" /> Teste Conexão JUnit!</div>
+<div><img alt="" src="img/no_connection.png" /> Teste Conexão JUnit!</div>
 
 ###Objetivo
 Esse projeto tem por finalidade, criar um serviço via JAVA, para que possa ser consumido em seu retorno as informações de um WebService(WS), para mostrar qual operadora de um determinado número de celular (claro, ctbc/algar telecom, nextel, oi, vivo, tim). <br>
@@ -15,7 +15,7 @@ Foi realizado também, cobertura de teste na conexão do  WebService.
   -Repositório Maven
  
 ###Tecnologias utilizadas			 
-  JAVA EE, XML JSON, MAVEN, JERSEY (API WS), JUnit 4
+  JAVA EE, XML, JSON, MAVEN, JERSEY (API WS), JUnit 4
 		 
 ###Como executar?
 Importar o projeto no eclipse.
