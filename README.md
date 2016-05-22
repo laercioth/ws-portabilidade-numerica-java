@@ -19,7 +19,7 @@ Foi realizado também, cobertura de teste na conexão do  WebService.
 		 
 ###Como executar?
 Importar o projeto no eclipse.
-Botão direito do mouse no Project Explore > Import > Maven > Existing Maven Project > caminho do download feito.
+Botão direito do mouse no Project Explore > Import > Maven > Existing Maven Project > caminho do download feito.<br>
 Abrir a classe App.java e executar método main. <br>
 Abrir a classe AppTest.java para efetuar o teste de conexão com um número de telefone válido. <br>
 Let's be happy :D			 
